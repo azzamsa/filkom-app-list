@@ -173,6 +173,9 @@ menggunakan cara lain yaitu mengonversikan file org ke markdown menggunakan [[ht
 saya hanya menyertakan dalam format markdown. anda bisa mengonversikan format markdown 
 ke format lain seperti PDF, odt, dan latex menggunakan Pandoc.
 
+saya memilih menggunakan org-mode dari pada markdown untuk repo ini, karen saya
+merasa lebih mudah membuat dan menyunting tabel pada org-mode dibandingkan markdown.
+
 * Kontribusi
 
 
