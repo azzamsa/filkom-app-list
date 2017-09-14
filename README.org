@@ -1,71 +1,73 @@
+
+
+*jika anda membaca readme ini menggunakan gawai, silahkan gunakan desktop-mode pada browser di gawai anda*
+
+Mengingat banyak sekali teman-teman di sekitar saya yang
+memperjuangkan nilai nilai yang mereka cintai, saya membuatkan daftar
+sederhana yang memuat aplikasi apa saja yang akan di gunakan pada
+seluruh mata kuliah jurusan Informatika di Universitas Brawijaya,
+dengan harapan agar teman-teman yang menggunakan Sistem Operasi
+non-windows, bisa memiliki pandangan dan persiapan bagaimana mengatasi
+aplikasi yang tidak native atau tidak memiliki support di non-windows.
+
 * Aplikasi Mata kuliah Informatika Universitas Brawijaya
 
 ** Mata kuliah wajib
 
-| SMT   | NO | Name                                                      | Prak | KebutuhanAplikasi              | GNU/Linux | MS Windows    | Mac OS        | Keteragan |
-|-------+----+-----------------------------------------------------------+------+--------------------------------+-----------+---------------+---------------+-----------|
-| smt1  |  1 | Pendidikan Agama Islam                                    |      | X                              |           |               |               |           |
-|       |  2 | Bahasa Indonesia                                          |      | X                              |           |               |               |           |
-|       |  3 | Pemrograman Dasar                                         | V    | Netbeans, Eclipse, ( any IDEs) | V         | V             | V             |           |
-|       |  4 | Pengantar Ilmu Komputer                                   |      | X                              |           |               |               |           |
-|       |  5 | Matematika Komputasi                                      |      | X                              |           |               |               |           |
-|       |  6 | Sistem Digital                                            |      | Multisim (windows only)        | X         | V             | X             |           |
-|       |    | Total                                                     |      |                                |           |               |               |           |
-|       |    |                                                           |      |                                |           |               |               |           |
-| smt2  |  1 | Bahasa Inggris                                            |      | X                              |           |               |               |           |
-|       |  2 | Arsitektur & OrganisasiKomputer                           |      | X                              |           |               |               |           |
-|       |  3 | Pemrograman Lanjut                                        | V    | Netbeans, Eclipse, ( any IDEs) | V         | V             | V             |           |
-|       |  4 | Matematika Komputasi Lanjut                               |      | X                              |           |               |               |           |
-|       |  5 | Interaksi Manusia & Komputer                              |      | X                              |           |               |               |           |
-|       |  6 | Statistika                                                |      | X                              |           |               |               |           |
-|       |    | Total                                                     |      |                                |           |               |               |           |
-|       |    |                                                           |      |                                |           |               |               |           |
-| Smt 3 |  1 | Pendidikan Pancasila                                      |      | X                              |           |               |               |           |
-|       |  2 | Algoritma & Struktur Data                                 | V    | Netbeans, Eclipse, ( any IDEs) | V         | V             | V             |           |
-|       |  3 | Metode Numerik ( ex: Pemodelan Berorientasi Objek )       |      | Octave                         | V         | V             | ?             |           |
-|       |  4 | Sistem Operasi                                            | V    | GNU/Linux                      | V         | X             | X             |           |
-|       |  5 | Sistem Multimedia ( ex : Grafika Komputer)                |      | opengl                         | V         | V             | ?             |           |
-|       |  6 | Sistem Basis Data                                         | V    | DB2, SQL Server (windows only) | V         | X             | X             |           |
-|       |    | Total                                                     |      |                                |           |               |               |           |
-|       |    |                                                           |      |                                |           |               |               |           |
-|       |    |                                                           |      |                                |           |               |               |           |
-| Smt 4 |  1 | Desain & Analisis Algoritma                               |      |                                |           |               |               |           |
-|       |  2 | Kecerdasan Buatan                                         | V    | netbeans                       | V         | V             | V             |           |
-|       |  3 | Jaringan Komputer                                         | V    | wireshark                      | V         | V             | V             |           |
-|       |  4 | Pemrograman Web                                           | V    | XAMPP                          | V         | V             | V             |           |
-|       |  5 | Analisis & Perancangan Sistem                             | V    | enterprise architect           | V         | V(wine:great) | V(wine:great) |           |
-|       |    | Total                                                     |      |                                |           |               |               |           |
-|       |    |                                                           |      |                                |           |               |               |           |
-|       |    |                                                           |      |                                |           |               |               |           |
-| Smt 5 |  1 | Rekayasa Perangkat Lunak                                  | V    | enterprise architect           | V         | V(wine:great) | V(wine:great) |           |
-|       |  2 | Pengenalan Pola                                           |      | Netbeans                       | V         | V             | V             |           |
-|       |  3 | Keamanan Informasi                                        |      |                                |           |               |               |           |
-|       |  4 | Pemrograman Platform Khusus  (ex : Manajemen Industri TI) | V    | Visual Studio                  | V         | V             | ?             |           |
-|       |  5 | MK PILIHAN 1                                              |      |                                |           |               |               |           |
-|       |  6 | MK PILIHAN 2                                              |      |                                |           |               |               |           |
-|       |    | Total                                                     |      |                                |           |               |               |           |
-|       |    |                                                           |      |                                |           |               |               |           |
-|       |    |                                                           |      |                                |           |               |               |           |
-| Smt 6 |  1 | Kewirausahaan                                             |      | X                              |           |               |               |           |
-|       |  2 | Metodologi Penelitian TI                                  |      | X                              |           |               |               |           |
-|       |  3 | Kewarganegaraan                                           |      | X                              |           |               |               |           |
-|       |  4 | MK PILIHAN 3                                              |      |                                |           |               |               |           |
-|       |  5 | MK PILIHAN 4                                              |      |                                |           |               |               |           |
-|       |  6 | MK PILIHAN 5                                              |      |                                |           |               |               |           |
-|       |  7 | MK PILIHAN 6                                              |      |                                |           |               |               |           |
-|       |    | Total                                                     |      |                                |           |               |               |           |
-|       |    |                                                           |      |                                |           |               |               |           |
-|       |    |                                                           |      |                                |           |               |               |           |
-| Smt 7 |  1 | Praktek Kerja Lapangan                                    |      | X                              |           |               |               |           |
-|       |  2 | Etika Profesi TI                                          |      | X                              |           |               |               |           |
-|       |  3 | MK PILIHAN 7                                              |      |                                |           |               |               |           |
-|       |  4 | MK PILIHAN 8                                              |      |                                |           |               |               |           |
-|       |  5 | MK PILIHAN 9                                              |      |                                |           |               |               |           |
-|       |    | Total                                                     |      |                                |           |               |               |           |
-|       |    |                                                           |      |                                |           |               |               |           |
-| Smt 8 |  1 | SKRIPSI                                                   |      |                                |           |               |               |           |
-|       |    | MK PILIHAN 10                                             |      |                                |           |               |               |           |
-|       |    | Total                                                     |      |                                |           |               |               |           |
+| SMT   | NO | Name                            | Prak | KebutuhanAplikasi | GNU/Linux | MS Windows | Mac OS | Keteragan |
+|-------+----+---------------------------------+------+-------------------+-----------+------------+--------+-----------|
+| smt1  |  1 | Pendidikan Agama Islam          |      | X                 |           |            |        |           |
+|       |  2 | Bahasa Indonesia                |      | X                 |           |            |        |           |
+|       |  3 | Pemrograman Dasar               | V    | IDE               | V         | V          | V      |           |
+|       |  4 | Pengantar Ilmu Komputer         |      | X                 |           |            |        |           |
+|       |  5 | Matematika Komputasi            |      | X                 |           |            |        |           |
+|       |  6 | Sistem Digital                  |      | Multisim          | X         | V          | X      |           |
+|       |    |                                 |      |                   |           |            |        |           |
+| smt2  |  1 | Bahasa Inggris                  |      | X                 |           |            |        |           |
+|       |  2 | Arsitektur & OrganisasiKomputer |      | X                 |           |            |        |           |
+|       |  3 | Pemrograman Lanjut              | V    | IDE               | v         | V          | V      |           |
+|       |  4 | Matematika Komputasi Lanjut     |      | X                 |           |            |        |           |
+|       |  5 | Interaksi Manusia & Komputer    |      | X                 |           |            |        |           |
+|       |  6 | Statistika                      |      | X                 |           |            |        |           |
+|       |    |                                 |      |                   |           |            |        |           |
+| Smt 3 |  1 | Pendidikan Pancasila            |      | X                 |           |            |        |           |
+|       |  2 | Algoritma & Struktur Data       | V    | IDE appaun        | V         | V          | V      |           |
+|       |  3 | Metode Numerik                  |      | GNU Octave        | V         | V          | ?      |           |
+|       |  4 | Sistem Operasi                  | V    | Distro GNU/Linux  | V         | X          | X      |           |
+|       |  5 | Sistem Multimedia               |      | OpenGL            | V         | V          | ?      |           |
+|       |  6 | Sistem Basis Data               | V    | SQL Server        | V         | v          | X      |           |
+|       |    |                                 |      |                   |           |            |        |           |
+| Smt 4 |  1 | Desain & Analisis Algoritma     |      | X                 |           |            |        |           |
+|       |  2 | Kecerdasan Buatan               | V    | IDE               | V         | V          | V      |           |
+|       |  3 | Jaringan Komputer               | V    | Wireshark         | V         | V          | V      |           |
+|       |  4 | Pemrograman Web                 | V    | AMP stack         | V         | V          | ?      |           |
+|       |  5 | Analisis & Perancangan Sistem   | V    | Dia               | V         | ?          | ?      |           |
+|       |    |                                 |      |                   |           |            |        |           |
+|       |    |                                 |      |                   |           |            |        |           |
+| Smt 5 |  1 | Rekayasa Perangkat Lunak        | V    | ?                 |           |            |        |           |
+|       |  2 | Pengenalan Pola                 |      | IDE               | V         | V          | V      |           |
+|       |  3 | Keamanan Informasi              |      | X                 |           |            |        |           |
+|       |  4 | Pemrograman Platform Khusus     | V    | Visual Studio     | V         | V          | ?      |           |
+|       |  5 | MK PILIHAN 1                    |      |                   |           |            |        |           |
+|       |  6 | MK PILIHAN 2                    |      |                   |           |            |        |           |
+|       |    |                                 |      |                   |           |            |        |           |
+| Smt 6 |  1 | Kewirausahaan                   |      | X                 |           |            |        |           |
+|       |  2 | Metodologi Penelitian TI        |      | X                 |           |            |        |           |
+|       |  3 | Kewarganegaraan                 |      | X                 |           |            |        |           |
+|       |  4 | MK PILIHAN 3                    |      |                   |           |            |        |           |
+|       |  5 | MK PILIHAN 4                    |      |                   |           |            |        |           |
+|       |  6 | MK PILIHAN 5                    |      |                   |           |            |        |           |
+|       |  7 | MK PILIHAN 6                    |      |                   |           |            |        |           |
+|       |    |                                 |      |                   |           |            |        |           |
+| Smt 7 |  1 | Praktek Kerja Lapangan          |      | X                 |           |            |        |           |
+|       |  2 | Etika Profesi TI                |      | X                 |           |            |        |           |
+|       |  3 | MK PILIHAN 7                    |      |                   |           |            |        |           |
+|       |  4 | MK PILIHAN 8                    |      |                   |           |            |        |           |
+|       |  5 | MK PILIHAN 9                    |      |                   |           |            |        |           |
+|       |    |                                 |      |                   |           |            |        |           |
+| Smt 8 |  1 | SKRIPSI                         |      | X                 |           |            |        |           |
+|       |    | MK PILIHAN 10                   |      |                   |           |            |        |           |
+|       |    |                                 |      |                   |           |            |        |           |
 
 
 ** Mata Kuliah Pilihan Keminatan Rekayasa Perangkat Lunak (RPL)
@@ -113,20 +115,20 @@
 ** Mata Kuliah Pilihan Keminatan Komputasi Berbasis Jaringan (KBJ)
 
 
-| No | Mata Kuliah (MK)                 | Kode       | Kebutuhan Aplikasi             | GNU/Linux | MS Windows | Mac OS | Sem |
-|----+----------------------------------+------------+--------------------------------+-----------+------------+--------+-----|
-|  1 | Administrasi Sistem Server       | KOM-152361 | GNU/Linux                      | V         |            |        |     |
-|  2 | Administrasi Jaringan            | KOM-152161 | Gns3,cisco packet tracker      | V         | ?          |        |     |
-|  3 | Keamanan Jaringan                | TIF-151351 | GNU/Linux Penetration packages | V         |            |        |     |
-|  4 | Perencanaan dan Analisa Jaringan | TIF-152363 |                                |           |            |        |     |
-|  5 | Sistem Komputasi Terdistribusi   | KOM-151372 |                                |           |            |        |     |
-|  6 | Jaringan Multimedia              | TIF-152362 |                                |           |            |        |     |
-|  7 | Arsitektur Jaringan Terkini      | KOM-151371 |                                |           |            |        |     |
-|  8 | Pemrograman Jaringan             | TIF-152364 |                                |           |            |        |     |
-|  9 | Sistem Forensik Digital          | TIF-152365 |                                |           |            |        |     |
-| 10 | Jaringan Nir Kabel               | KOM-151360 |                                |           |            |        |     |
-| 11 | Kriptografi                      | TIF-151371 |                                |           |            |        |     |
-|    |                                  |            |                                |           |            |        |     |
+| No | Mata Kuliah (MK)                 | Kode       | Kebutuhan Aplikasi   | GNU/Linux | MS Windows | Mac OS | Sem |
+|----+----------------------------------+------------+----------------------+-----------+------------+--------+-----|
+|  1 | Administrasi Sistem Server       | KOM-152361 | GNU/Linux Distro     | V         |            |        |     |
+|  2 | Administrasi Jaringan            | KOM-152161 | Gns3,                | V         | ?          |        |     |
+|  3 | Keamanan Jaringan                | TIF-151351 | Penetration packages | V         |            |        |     |
+|  4 | Perencanaan dan Analisa Jaringan | TIF-152363 |                      |           |            |        |     |
+|  5 | Sistem Komputasi Terdistribusi   | KOM-151372 |                      |           |            |        |     |
+|  6 | Jaringan Multimedia              | TIF-152362 |                      |           |            |        |     |
+|  7 | Arsitektur Jaringan Terkini      | KOM-151371 |                      |           |            |        |     |
+|  8 | Pemrograman Jaringan             | TIF-152364 |                      |           |            |        |     |
+|  9 | Sistem Forensik Digital          | TIF-152365 |                      |           |            |        |     |
+| 10 | Jaringan Nir Kabel               | KOM-151360 |                      |           |            |        |     |
+| 11 | Kriptografi                      | TIF-151371 |                      |           |            |        |     |
+|    |                                  |            |                      |           |            |        |     |
 
 
 
@@ -145,3 +147,28 @@
 |  9 | Rekayasa Aplikasi Perangkat Bergerak           |            |                    |           |            |        |     |
 | 10 | Augmented & Virtual Reality                    |            |                    |           |            |        |     |
 | 11 | Desain Kreatif Aplikasi & Game                 |            |                    |           |            |        |     |
+
+
+* Penggunaan
+
+
+untuk menggunakan daftar ini, anda dapat membukan file org menggunakan [[http://orgmode.org/][Org Mode]] ,
+saya meneydiakan flat ods yang bisa di buka menggunakan [[https://www.libreoffice.org/][LibreOffice]] , adapun
+menggunakan cara lain yaitu mengonversikan file org ke markdown menggunakan [[https://pandoc.org/][pandoc]].
+
+* Kontribusi
+
+
+anda dapat berkontribusi pada daftar ini dengan melengkapi pada /fork/ anda yang kemudian akan saya /merge/,
+ataupun anda dapat mengirimkan salinan flat ods yang sudah anda isi ke alamat surel saya atau melaporkan
+di bagian [[https://github.com/azzamsa/filkom-app-list/issues][isssue]].
+
+* Kontributor
+
+- David C.H
+- Retiana
+- Ihwanudien H.R
+
+* Lisensi
+
+This work is licensed under a [[http://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0 International License]].
