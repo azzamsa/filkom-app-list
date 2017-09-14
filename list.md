@@ -26,7 +26,7 @@ Mata kuliah wajib
                                                                                                       
   1    Bahasa Inggris                           X                                                     2
   2    Arsitektur & OrganisasiKomputer          X                                                     
-  3    Pemrograman Lanjut                V      IDE                 v           V            V        
+  3    Pemrograman Lanjut                V      IDE                 V           V            V        
   4    Matematika Komputasi Lanjut              X                                                     
   5    Interaksi Manusia & Komputer             X                                                     
   6    Statistika                               X                                                     
@@ -36,7 +36,7 @@ Mata kuliah wajib
   3    Metode Numerik                           GNU Octave          V           V            ?        
   4    Sistem Operasi                    V      Distro GNU/Linux    V           X            X        
   5    Sistem Multimedia                        OpenGL              V           V            ?        
-  6    Sistem Basis Data                 V      SQL Server          V           v            X        
+  6    Sistem Basis Data                 V      SQL Server          V           V            X        
                                                                                                       
   1    Desain & Analisis Algoritma              X                                                     4
   2    Kecerdasan Buatan                 V      IDE                 V           V            V        
@@ -153,6 +153,17 @@ Perubahan Terbaru
   ---- ------------------ ------ -------------------- ----------- ------------ -------- -----
   1    Metode Numerik            Anaconda Python      V           V            v        
 
+Perangkat Lunak Pendukung
+-------------------------
+
+### Mata Kuliah Wajib
+
+### Mata Kuliah Pilihan
+
+1.  Rekayasa Perangkat Lunak
+
+    -   [Dia](http://dia-installer.de/)
+
 Penggunaan
 ==========
 
@@ -161,6 +172,11 @@ untuk menggunakan daftar ini, anda dapat membukan file org menggunakan
 buka menggunakan [LibreOffice](https://www.libreoffice.org/) , adapun
 menggunakan cara lain yaitu mengonversikan file org ke markdown
 menggunakan [pandoc](https://pandoc.org/).
+
+**14.09.2017 12:23 PM** flat odt tidak lagi disertakan, untuk memudahkan
+produktifitas, saya hanya menyertakan dalam format markdown. anda bisa
+mengonversikan format markdown ke format lain seperti PDF, odt, dan
+latex menggunakan Pandoc.
 
 Kontribusi
 ==========
