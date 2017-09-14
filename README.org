@@ -161,6 +161,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 |  2 | English-Indonesia Dictionary   | Bahasa Inggris      | gKamus            | V         | X          | X      |     |
 |  3 | Wireframing tool               | IMK                 | wireframesketcher | V         | V          | V      |     |
 |  4 | Design tool for UML diagrams   | APS                 | astah community   | V         | X          | X      |     |
+|  5 | Draw structured diagrams       | RPL                 | dia diagram       | V         | V          | V      |     |
 
 * Penggunaan
 
