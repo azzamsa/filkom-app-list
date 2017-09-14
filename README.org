@@ -92,22 +92,22 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 
 ** Mata Kuliah Pilihan Keminatan Komputasi Cerdas (KC)
 
-| No | Mata Kuliah (MK)              | Kode       | Kebutuhan Aplikasi | GNU/Linux | MS Windows | Mac OS | Sem |
-|----+-------------------------------+------------+--------------------+-----------+------------+--------+-----|
-|  1 | Pengolahan Citra Digital      | TIF-151450 | GNU Octave         | V         | V          | V      |   5 |
-|  2 | Text Mining                   | TIF-151451 |                    |           |            |        |   5 |
-|  3 | Sistem Pakar                  | TIF-151453 |                    |           |            |        |   5 |
-|  4 | Logika Fuzzy                  | TIF-151454 |                    |           |            |        |   5 |
-|  5 | Sistem Penunjang Keputusaan   | TIF-151455 |                    |           |            |        |   5 |
-|  6 | Visi Komputer                 | TIF-152460 |                    |           |            |        |   6 |
-|  7 | Data Mining                   | TIF-152461 |                    |           |            |        |   6 |
-|  8 | Sistem Temu Kembali Informasi | TIF-152462 |                    |           |            |        |   6 |
-|  9 | Jaringan Syaraf Tiruan        | TIF-152463 |                    |           |            |        |   6 |
-| 10 | Pemrosesan Bahasa Alami       | TIF-152466 |                    |           |            |        |   6 |
-| 11 | Algortima Evolusi             |            |                    |           |            |        |   6 |
-| 12 | Analisis Big Data             |            | Apache Hadoop      | V         | V(WSL mode)| ?      | 5/7 |
-| 13 | Swarm Intelligence            |            |                    |           |            |        |     |
-|    |                               |            |                    |           |            |        |     |
+| No | Mata Kuliah (MK)              | Kode       | Kebutuhan Aplikasi | GNU/Linux | MS Windows  | Mac OS | Sem |
+|----+-------------------------------+------------+--------------------+-----------+-------------+--------+-----|
+|  1 | Pengolahan Citra Digital      | TIF-151450 | GNU Octave         | V         | V           | V      |   5 |
+|  2 | Text Mining                   | TIF-151451 | X                  |           |             |        |   5 |
+|  3 | Sistem Pakar                  | TIF-151453 | X                  |           |             |        |   5 |
+|  4 | Logika Fuzzy                  | TIF-151454 | X                  |           |             |        |   5 |
+|  5 | Sistem Penunjang Keputusaan   | TIF-151455 | X                  |           |             |        |   5 |
+|  6 | Visi Komputer                 | TIF-152460 | X                  |           |             |        |   6 |
+|  7 | Data Mining                   | TIF-152461 | X                  |           |             |        |   6 |
+|  8 | Sistem Temu Kembali Informasi | TIF-152462 | X                  |           |             |        |   6 |
+|  9 | Jaringan Syaraf Tiruan        | TIF-152463 | X                  |           |             |        |   6 |
+| 10 | Pemrosesan Bahasa Alami       | TIF-152466 | Anaconda           | V         | ?           | ?      |   6 |
+| 11 | Algortima Evolusi             |            | X                  |           |             |        |   6 |
+| 12 | Analisis Big Data             |            | Apache Hadoop      | V         | V(WSL mode) | ?      | 5/7 |
+| 13 | Swarm Intelligence            |            |                    |           |             |        |     |
+|    |                               |            |                    |           |             |        |     |
 
 
 
@@ -155,12 +155,18 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 
 ** Perangkat Lunak Pendukung
 
-*** Mata Kuliah Wajib
+- [[http://dia-installer.de/][Dia]] - Dia is a program to draw structured diagrams.
+- [[http://www.mycli.net/][MyCLI]] - Universal SQL Client 
+- [[https://dbeaver.jkiss.org/][DBeaver]] - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
 
-*** Mata Kuliah Pilihan
 
-**** Rekayasa Perangkat Lunak
-- [[http://dia-installer.de/][Dia]]
+** Rekomendasi Perangkat Lunak 
+
+Mata Kuliah yang menggunakan perangkat lunak yang tidak memiliki support di GNU/Linux, kami merekomendasikan menggunakan replacement ini:
+
+- SQL Server -> [[https://mariadb.org/][MariaDB]]
+- Visual Studio IDE -> [[http://www.monodevelop.com/][MonoDevelop]]
+
 
 * Penggunaan
 
@@ -188,6 +194,8 @@ di bagian [[https://github.com/azzamsa/filkom-app-list/issues][isssue]].
 - David C.H
 - Retiana
 - Ihwanudien H.R
+- Dese Narfa Firmansyah
+
 
 * Lisensi
 
