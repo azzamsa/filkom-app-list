@@ -155,12 +155,12 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 
 ** Perangkat Lunak Pendukung
 
-*** Mata Kuliah Wajib
-
-*** Mata Kuliah Pilihan
-
-**** Rekayasa Perangkat Lunak
-- [[http://dia-installer.de/][Dia]]
+| NO | Fungsi                         | Mata Kuliah         | Nama Aplikasi     | GNU/Linux | MS Windows | Mac OS | SMT |
+|----+--------------------------------+---------------------+-------------------+-----------+------------+--------+-----|
+|  1 | Generate high-quality diagrams | PEMDAS, PEMLAN, SBD | yEd               | V         | V          | V      |     |
+|  2 | English-Indonesia Dictionary   | Bahasa Inggris      | gKamus            | V         | X          | X      |     |
+|  3 | Wireframing tool               | IMK                 | wireframesketcher | V         | V          | V      |     |
+|  4 | Design tool for UML diagrams   | APS                 | astah community   | V         | X          | X      |     |
 
 * Penggunaan
 
