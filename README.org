@@ -1,0 +1,147 @@
+* Aplikasi Mata kuliah Informatika Universitas Brawijaya
+
+** Mata kuliah wajib
+
+| SMT   | NO | Name                                                      | Prak | KebutuhanAplikasi              | GNU/Linux | MS Windows    | Mac OS        | Keteragan |
+|-------+----+-----------------------------------------------------------+------+--------------------------------+-----------+---------------+---------------+-----------|
+| smt1  |  1 | Pendidikan Agama Islam                                    |      | X                              |           |               |               |           |
+|       |  2 | Bahasa Indonesia                                          |      | X                              |           |               |               |           |
+|       |  3 | Pemrograman Dasar                                         | V    | Netbeans, Eclipse, ( any IDEs) | V         | V             | V             |           |
+|       |  4 | Pengantar Ilmu Komputer                                   |      | X                              |           |               |               |           |
+|       |  5 | Matematika Komputasi                                      |      | X                              |           |               |               |           |
+|       |  6 | Sistem Digital                                            |      | Multisim (windows only)        | X         | V             | X             |           |
+|       |    | Total                                                     |      |                                |           |               |               |           |
+|       |    |                                                           |      |                                |           |               |               |           |
+| smt2  |  1 | Bahasa Inggris                                            |      | X                              |           |               |               |           |
+|       |  2 | Arsitektur & OrganisasiKomputer                           |      | X                              |           |               |               |           |
+|       |  3 | Pemrograman Lanjut                                        | V    | Netbeans, Eclipse, ( any IDEs) | V         | V             | V             |           |
+|       |  4 | Matematika Komputasi Lanjut                               |      | X                              |           |               |               |           |
+|       |  5 | Interaksi Manusia & Komputer                              |      | X                              |           |               |               |           |
+|       |  6 | Statistika                                                |      | X                              |           |               |               |           |
+|       |    | Total                                                     |      |                                |           |               |               |           |
+|       |    |                                                           |      |                                |           |               |               |           |
+| Smt 3 |  1 | Pendidikan Pancasila                                      |      | X                              |           |               |               |           |
+|       |  2 | Algoritma & Struktur Data                                 | V    | Netbeans, Eclipse, ( any IDEs) | V         | V             | V             |           |
+|       |  3 | Metode Numerik ( ex: Pemodelan Berorientasi Objek )       |      | Octave                         | V         | V             | ?             |           |
+|       |  4 | Sistem Operasi                                            | V    | GNU/Linux                      | V         | X             | X             |           |
+|       |  5 | Sistem Multimedia ( ex : Grafika Komputer)                |      | opengl                         | V         | V             | ?             |           |
+|       |  6 | Sistem Basis Data                                         | V    | DB2, SQL Server (windows only) | V         | X             | X             |           |
+|       |    | Total                                                     |      |                                |           |               |               |           |
+|       |    |                                                           |      |                                |           |               |               |           |
+|       |    |                                                           |      |                                |           |               |               |           |
+| Smt 4 |  1 | Desain & Analisis Algoritma                               |      |                                |           |               |               |           |
+|       |  2 | Kecerdasan Buatan                                         | V    | netbeans                       | V         | V             | V             |           |
+|       |  3 | Jaringan Komputer                                         | V    | wireshark                      | V         | V             | V             |           |
+|       |  4 | Pemrograman Web                                           | V    | XAMPP                          | V         | V             | V             |           |
+|       |  5 | Analisis & Perancangan Sistem                             | V    | enterprise architect           | V         | V(wine:great) | V(wine:great) |           |
+|       |    | Total                                                     |      |                                |           |               |               |           |
+|       |    |                                                           |      |                                |           |               |               |           |
+|       |    |                                                           |      |                                |           |               |               |           |
+| Smt 5 |  1 | Rekayasa Perangkat Lunak                                  | V    | enterprise architect           | V         | V(wine:great) | V(wine:great) |           |
+|       |  2 | Pengenalan Pola                                           |      | Netbeans                       | V         | V             | V             |           |
+|       |  3 | Keamanan Informasi                                        |      |                                |           |               |               |           |
+|       |  4 | Pemrograman Platform Khusus  (ex : Manajemen Industri TI) | V    | Visual Studio                  | V         | V             | ?             |           |
+|       |  5 | MK PILIHAN 1                                              |      |                                |           |               |               |           |
+|       |  6 | MK PILIHAN 2                                              |      |                                |           |               |               |           |
+|       |    | Total                                                     |      |                                |           |               |               |           |
+|       |    |                                                           |      |                                |           |               |               |           |
+|       |    |                                                           |      |                                |           |               |               |           |
+| Smt 6 |  1 | Kewirausahaan                                             |      | X                              |           |               |               |           |
+|       |  2 | Metodologi Penelitian TI                                  |      | X                              |           |               |               |           |
+|       |  3 | Kewarganegaraan                                           |      | X                              |           |               |               |           |
+|       |  4 | MK PILIHAN 3                                              |      |                                |           |               |               |           |
+|       |  5 | MK PILIHAN 4                                              |      |                                |           |               |               |           |
+|       |  6 | MK PILIHAN 5                                              |      |                                |           |               |               |           |
+|       |  7 | MK PILIHAN 6                                              |      |                                |           |               |               |           |
+|       |    | Total                                                     |      |                                |           |               |               |           |
+|       |    |                                                           |      |                                |           |               |               |           |
+|       |    |                                                           |      |                                |           |               |               |           |
+| Smt 7 |  1 | Praktek Kerja Lapangan                                    |      | X                              |           |               |               |           |
+|       |  2 | Etika Profesi TI                                          |      | X                              |           |               |               |           |
+|       |  3 | MK PILIHAN 7                                              |      |                                |           |               |               |           |
+|       |  4 | MK PILIHAN 8                                              |      |                                |           |               |               |           |
+|       |  5 | MK PILIHAN 9                                              |      |                                |           |               |               |           |
+|       |    | Total                                                     |      |                                |           |               |               |           |
+|       |    |                                                           |      |                                |           |               |               |           |
+| Smt 8 |  1 | SKRIPSI                                                   |      |                                |           |               |               |           |
+|       |    | MK PILIHAN 10                                             |      |                                |           |               |               |           |
+|       |    | Total                                                     |      |                                |           |               |               |           |
+
+
+** Mata Kuliah Pilihan Keminatan Rekayasa Perangkat Lunak (RPL)
+
+| No | Mata Kuliah (MK)                             | Kode       | Kebutuhan Aplikasi | GNU/Linux | MS Windows | Mac OS | Sem |
+|----+----------------------------------------------+------------+--------------------+-----------+------------+--------+-----|
+|  1 | Rekayasa & Manajemen Kebutuhan               | TIF-151551 |                    |           |            |        |   5 |
+|  2 | Rekayasa Pengetahuan                         | TIF-151552 |                    |           |            |        |   5 |
+|  3 | Administrasi Basis Data                      | TIF-152564 |                    |           |            |        |   6 |
+|  4 | Arsitektur Aplikasi Enterprise               | TIF-152568 |                    |           |            |        |   6 |
+|  5 | Basis Data Terdistribusi                     | TIF-152563 |                    |           |            |        |   6 |
+|  6 | Kualitas dan Kehandalan Perangkat Lunak      | TIF-152562 |                    |           |            |        |   6 |
+|  7 | Manajemen Proyek Perangkat Lunak             | TIF-152569 |                    |           |            |        |   6 |
+|  8 | Pengujian Perangkat Lunak                    | TIF-152561 |                    |           |            |        |   6 |
+|  9 | Perancangan User Experience                  | TIF-152567 |                    |           |            |        |   6 |
+| 10 | Pola-pola Perancangan                        | TIF-152565 |                    |           |            |        |   6 |
+| 11 | Manajemen Konfigurasi Perangkat Lunak        | TIF-151574 |                    |           |            |        |   7 |
+| 12 | Metode Formal dalam Rekayasa Perangkat Lunak | TIF-151572 |                    |           |            |        |   7 |
+| 13 | Rekayasa Embedded System                     | TIF-151573 |                    |           |            |        |   7 |
+| 14 | Web Semantik                                 | TIF-151571 |                    |           |            |        |   7 |
+|    |                                              |            |                    |           |            |        |     |
+
+
+** Mata Kuliah Pilihan Keminatan Komputasi Cerdas (KC)
+
+| No | Mata Kuliah (MK)              | Kode       | Kebutuhan Aplikasi | GNU/Linux | MS Windows | Mac OS | Sem |
+|----+-------------------------------+------------+--------------------+-----------+------------+--------+-----|
+|  1 | Pengolahan Citra Digital      | TIF-151450 | GNU Octave         | V         | V          | V      |   5 |
+|  2 | Text Mining                   | TIF-151451 |                    |           |            |        |   5 |
+|  3 | Sistem Pakar                  | TIF-151453 |                    |           |            |        |   5 |
+|  4 | Logika Fuzzy                  | TIF-151454 |                    |           |            |        |   5 |
+|  5 | Sistem Penunjang Keputusaan   | TIF-151455 |                    |           |            |        |   5 |
+|  6 | Visi Komputer                 | TIF-152460 |                    |           |            |        |   6 |
+|  7 | Data Mining                   | TIF-152461 |                    |           |            |        |   6 |
+|  8 | Sistem Temu Kembali Informasi | TIF-152462 |                    |           |            |        |   6 |
+|  9 | Jaringan Syaraf Tiruan        | TIF-152463 |                    |           |            |        |   6 |
+| 10 | Pemrosesan Bahasa Alami       | TIF-152466 |                    |           |            |        |   6 |
+| 11 | Algortima Evolusi             |            |                    |           |            |        |   6 |
+| 12 | Analisis Big Data             |            |                    |           |            |        |     |
+| 13 | Swarm Intelligence            |            |                    |           |            |        |     |
+|    |                               |            |                    |           |            |        |     |
+
+
+
+** Mata Kuliah Pilihan Keminatan Komputasi Berbasis Jaringan (KBJ)
+
+
+| No | Mata Kuliah (MK)                 | Kode       | Kebutuhan Aplikasi             | GNU/Linux | MS Windows | Mac OS | Sem |
+|----+----------------------------------+------------+--------------------------------+-----------+------------+--------+-----|
+|  1 | Administrasi Sistem Server       | KOM-152361 | GNU/Linux                      | V         |            |        |     |
+|  2 | Administrasi Jaringan            | KOM-152161 | Gns3,cisco packet tracker      | V         | ?          |        |     |
+|  3 | Keamanan Jaringan                | TIF-151351 | GNU/Linux Penetration packages | V         |            |        |     |
+|  4 | Perencanaan dan Analisa Jaringan | TIF-152363 |                                |           |            |        |     |
+|  5 | Sistem Komputasi Terdistribusi   | KOM-151372 |                                |           |            |        |     |
+|  6 | Jaringan Multimedia              | TIF-152362 |                                |           |            |        |     |
+|  7 | Arsitektur Jaringan Terkini      | KOM-151371 |                                |           |            |        |     |
+|  8 | Pemrograman Jaringan             | TIF-152364 |                                |           |            |        |     |
+|  9 | Sistem Forensik Digital          | TIF-152365 |                                |           |            |        |     |
+| 10 | Jaringan Nir Kabel               | KOM-151360 |                                |           |            |        |     |
+| 11 | Kriptografi                      | TIF-151371 |                                |           |            |        |     |
+|    |                                  |            |                                |           |            |        |     |
+
+
+
+** Mata Kuliah Pilihan Keminatan Multimedia, Game dan Mobile (MGM)
+
+| No | Mata Kuliah (MK)                               | Kode       | Kebutuhan Aplikasi | GNU/Linux | MS Windows | Mac OS | Sem |
+|----+------------------------------------------------+------------+--------------------+-----------+------------+--------+-----|
+|  1 | Perancangan Game                               | TIF-151651 |                    |           |            |        |     |
+|  2 | Pembuatan Konten 2D dan 3D                     | TIF-151652 |                    |           |            |        |     |
+|  3 | Pemrograman Aplikasi Perangkat Bergerak        | TIF-151654 |                    |           |            |        |     |
+|  4 | Grafika Komputer dan Visualisasi               | TIF-151653 |                    |           |            |        |     |
+|  5 | Pemrograman Game                               |            |                    |           |            |        |     |
+|  6 | Pemrograman GPU                                |            |                    |           |            |        |     |
+|  7 | Kecerdasan Buatan dalam Game                   |            |                    |           |            |        |     |
+|  8 | Pemrograman Aplikasi Perangkat Bergerak Lanjut |            |                    |           |            |        |     |
+|  9 | Rekayasa Aplikasi Perangkat Bergerak           |            |                    |           |            |        |     |
+| 10 | Augmented & Virtual Reality                    |            |                    |           |            |        |     |
+| 11 | Desain Kreatif Aplikasi & Game                 |            |                    |           |            |        |     |
