@@ -161,6 +161,10 @@ untuk menggunakan daftar ini, anda dapat membukan file org menggunakan [[http://
 saya meneydiakan flat ods yang bisa di buka menggunakan [[https://www.libreoffice.org/][LibreOffice]] , adapun
 menggunakan cara lain yaitu mengonversikan file org ke markdown menggunakan [[https://pandoc.org/][pandoc]].
 
+*14.09.2017 12:23 PM* flat odt tidak lagi disertakan, untuk memudahkan produktifitas,
+saya hanya menyertakan dalam format markdown. anda bisa mengonversikan format markdown 
+ke format lain seperti PDF, odt, dan latex menggunakan Pandoc.
+
 * Kontribusi
 
 
