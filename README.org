@@ -24,7 +24,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 |    |                                 |      |                   |           |            |        |     |
 |  1 | Bahasa Inggris                  |      | X                 |           |            |        |   2 |
 |  2 | Arsitektur & OrganisasiKomputer |      | X                 |           |            |        |     |
-|  3 | Pemrograman Lanjut              | V    | IDE               | v         | V          | V      |     |
+|  3 | Pemrograman Lanjut              | V    | IDE               | V         | V          | V      |     |
 |  4 | Matematika Komputasi Lanjut     |      | X                 |           |            |        |     |
 |  5 | Interaksi Manusia & Komputer    |      | X                 |           |            |        |     |
 |  6 | Statistika                      |      | X                 |           |            |        |     |
@@ -34,7 +34,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 |  3 | Metode Numerik                  |      | GNU Octave        | V         | V          | ?      |     |
 |  4 | Sistem Operasi                  | V    | Distro GNU/Linux  | V         | X          | X      |     |
 |  5 | Sistem Multimedia               |      | OpenGL            | V         | V          | ?      |     |
-|  6 | Sistem Basis Data               | V    | SQL Server        | V         | v          | X      |     |
+|  6 | Sistem Basis Data               | V    | SQL Server        | V         | V          | X      |     |
 |    |                                 |      |                   |           |            |        |     |
 |  1 | Desain & Analisis Algoritma     |      | X                 |           |            |        |   4 |
 |  2 | Kecerdasan Buatan               | V    | IDE               | V         | V          | V      |     |
@@ -153,6 +153,14 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 |----+------------------+------+--------------------+-----------+------------+--------+-----|
 |  1 | Metode Numerik   |      | Anaconda Python    | V         | V          | v      |     |
 
+** Perangkat Lunak Pendukung
+
+*** Mata Kuliah Wajib
+
+*** Mata Kuliah Pilihan
+
+**** Rekayasa Perangkat Lunak
+- [[http://dia-installer.de/][Dia]]
 
 * Penggunaan
 
