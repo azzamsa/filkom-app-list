@@ -105,7 +105,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 |  9 | Jaringan Syaraf Tiruan        | TIF-152463 |                    |           |            |        |   6 |
 | 10 | Pemrosesan Bahasa Alami       | TIF-152466 |                    |           |            |        |   6 |
 | 11 | Algortima Evolusi             |            |                    |           |            |        |   6 |
-| 12 | Analisis Big Data             |            |                    |           |            |        |     |
+| 12 | Analisis Big Data             |            | Apache Hadoop      | V         | V(WSL mode)| ?      | 5/7 |
 | 13 | Swarm Intelligence            |            |                    |           |            |        |     |
 |    |                               |            |                    |           |            |        |     |
 
