@@ -1,0 +1,1 @@
+pandoc -s -S README.org  -o list.md
