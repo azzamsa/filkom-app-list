@@ -216,6 +216,8 @@ aplikasi non-free yang akan dicantumkan harus dibubuhkan tanda (N), seperti foo(
 - Ihwanudien H.R
 - Dese Narfa Firmansyah
 - Andre Rizal Sinaga
+- Ibrahim Yunus Muhammad Fiqhan
+- Ricky Irfandi
   
 * Lisensi
 
