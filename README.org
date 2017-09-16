@@ -79,7 +79,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 |  2 | Rekayasa Pengetahuan                         | TIF-151552 | ?      |           |            |        |   5 |
 |  3 | Administrasi Basis Data                      | TIF-152564 | ?      |           |            |        |   6 |
 |  4 | Arsitektur Aplikasi Enterprise               | TIF-152568 | ?      |           |            |        |   6 |
-|  5 | Basis Data Terdistribusi                     | TIF-152563 | ?      |           |            | 6      |     |
+|  5 | Basis Data Terdistribusi                     | TIF-152563 | ?      |           |            |        |   6 |
 |  6 | Kualitas dan Kehandalan Perangkat Lunak      | TIF-152562 | ?      |           |            |        |   6 |
 |  7 | Manajemen Proyek Perangkat Lunak             | TIF-152569 | ?      |           |            |        |   6 |
 |  8 | Pengujian Perangkat Lunak                    | TIF-152561 | ?      |           |            |        |   6 |
