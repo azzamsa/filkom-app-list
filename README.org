@@ -133,19 +133,19 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 
 ** Mata Kuliah Pilihan Keminatan Multimedia, Game dan Mobile (MGM)
 
-| No | Mata Kuliah (MK)                               | Kode       | Bawaan             | GNU/Linux | MS Windows | Mac OS | Sem |
-|----+------------------------------------------------+------------+--------------------+-----------+------------+--------+-----|
-|  1 | Perancangan Game                               | CIF-61651  |  Unity             |     V     |      V     |    V   |  5  |
-|  2 | Pembuatan Konten 2D dan 3D                     | CIF-61652  |  GIMP, Inkscape, Blender, Unity |     V     |      V     |   V  |  5  |
-|  3 | Pemrograman Aplikasi Perangkat Bergerak        | CIF-61654  |  Android Studio    |     V     |      V     |    V   |  5  |
-|  4 | Grafika Komputer dan Visualisasi               | CIF-61653  |  Code::Block, SDL  |     V     |      V     |    V   |  6  |
-|  5 | Pemrograman Game                               | CIF-62661  |  Code::Block, SDL  |     V     |      V     |    V   |  6  |
-|  6 | Pemrograman GPU                                | CIF-62663  |  ?                 |           |            |        |  6  |
-|  7 | Kecerdasan Buatan dalam Game                   | CIF-62662  |  Unity             |     V     |      V     |    V   |  6  |
-|  8 | Pemrograman Aplikasi Perangkat Bergerak Lanjut | CIF-62664  |  Android Studio    |     V     |      V     |    V   |  6  |
-|  9 | Rekayasa Aplikasi Perangkat Bergerak           | CIF-62665  |  -                 |           |            |        |  6  |
-| 10 | Augmented & Virtual Reality                    | CIF-61673  |  Unity, VRML       |     V     |      V     |    V   |  7  |
-| 11 | Desain Kreatif Aplikasi & Game                 | CIF-61675  |  Android Studio    |     V     |      V     |    V   |  7  |
+| No | Mata Kuliah (MK)                               | Kode      | Bawaan               | GNU/Linux | MS Windows | Mac OS | Sem |                     |           |            |        |     |
+|----+------------------------------------------------+-----------+----------------------+-----------+------------+--------+-----|
+|  1 | Perancangan Game                               | CIF-61651 | Unity                | V         | V          | V      |   5 |
+|  2 | Pembuatan Konten 2D dan 3D                     | CIF-61652 | Graphics tools       | V         | V          | V      |   5 |
+|  3 | Pemrograman Aplikasi Perangkat Bergerak        | CIF-61654 | Android Studio       | V         | V          | V      |   5 |
+|  4 | Grafika Komputer dan Visualisasi               | CIF-61653 | IDE, SDL             | V         | V          | V      |   6 |
+|  5 | Pemrograman Game                               | CIF-62661 | IDE, SDL             | V         | V          | V      |   6 |
+|  6 | Pemrograman GPU                                | CIF-62663 | ?                    |           |            |        |   6 |
+|  7 | Kecerdasan Buatan dalam Game                   | CIF-62662 | Unity                | V         | V          | V      |   6 |
+|  8 | Pemrograman Aplikasi Perangkat Bergerak Lanjut | CIF-62664 | Android Studio       | V         | V          | V      |   6 |
+|  9 | Rekayasa Aplikasi Perangkat Bergerak           | CIF-62665 | -                    |           |            |        |   6 |
+| 10 | Augmented & Virtual Reality                    | CIF-61673 | Unity, VRML          | V         | V          | V      |   7 |
+| 11 | Desain Kreatif Aplikasi & Game                 | CIF-61675 | Android Studio       | V         | V          | V      |   7 |
 
 ** Perubahan Terbaru
 
@@ -158,7 +158,13 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 - [[http://dia-installer.de/][Dia]] - Dia is a program to draw structured diagrams.
 - [[http://www.mycli.net/][MyCLI]] - Universal SQL Client 
 - [[https://dbeaver.jkiss.org/][DBeaver]] - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
+- Graphics tools
+  - [[https://www.gimp.org/][GIMP]] - The Free & Open Source Image Editor
+  - [[https://www.blender.org/][Blender]] - Open Source 3D creation. Free to use for any purpose, forever.
+  - [[https://inkscape.org/en/][Inkscape]] -  Draw Freely.
 
+
+ 
 anda juga dapat bisa melihat di [[https://github.com/LewisVo/Awesome-Linux-Software][Awesome-Linux-Sofware]] 
 
 ** Rekomendasi Perangkat Lunak Pengganti (/Replacement/)
