@@ -159,8 +159,9 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 - [[http://www.mycli.net/][MyCLI]] - Universal SQL Client 
 - [[https://dbeaver.jkiss.org/][DBeaver]] - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
 
+anda juga dapat bisa melihat di [[https://github.com/LewisVo/Awesome-Linux-Software][Awesome-Linux-Sofware]] 
 
-** Rekomendasi Perangkat Lunak 
+** Rekomendasi Perangkat Lunak Pengganti (/Replacement/)
 
 Mata Kuliah yang menggunakan perangkat lunak yang tidak memiliki support di GNU/Linux, kami merekomendasikan menggunakan replacement ini:
 
