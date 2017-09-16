@@ -136,7 +136,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 
 ** Mata Kuliah Pilihan Keminatan Multimedia, Game dan Mobile (MGM)
 
-| No | Mata Kuliah (MK)                               | Kode      | Bawaan               | GNU/Linux | MS Windows | Mac OS | Sem |                     |           |            |        |     |
+| No | Mata Kuliah (MK)                               | Kode      | Bawaan               | GNU/Linux | MS Windows | Mac OS | Sem |
 |----+------------------------------------------------+-----------+----------------------+-----------+------------+--------+-----|
 |  1 | Perancangan Game                               | CIF-61651 | Unity                | V         | V          | V      |   5 |
 |  2 | Pembuatan Konten 2D dan 3D                     | CIF-61652 | Graphics tools       | V         | V          | V      |   5 |
