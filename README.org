@@ -168,15 +168,20 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
   - [[https://www.gnu.org/software/emacs/][Emacs]] - An extensible, customizable, free/libre text editor and more.
   - [[https://vim.sourceforge.io/][Vim]] - Vim - the ubiquitous text editor
 
-- [[http://dia-installer.de/][Dia]] - Dia is a program to draw structured diagrams.
 - [[http://www.mycli.net/][MyCLI]] - Universal SQL Client 
 - [[https://dbeaver.jkiss.org/][DBeaver]] - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
+- [[http://gkamus.sourceforge.net/][gKamus]] - Simple English - Indonesia Dictionary.
+- [[http://wireframesketcher.com/][WireframeSketcher]] - WireframeSketcher is a wireframing tool that helps designers, developers and product managers quickly create wireframes, mockups and prototypes for desktop, web and mobile applications. It’s a desktop app and a plug-in for any Eclipse IDE.
+  
+- Diagrams tools
+  - [[http://dia-installer.de/][Dia]] - Dia is a program to draw structured diagrams.
+  - [[https://www.yworks.com/products/yed][yEd]] - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
+  - [[http://astah.net/editions/community][astah community]] - Free UML Tool for Non-Commercial Use!.
 
 - Graphics tools
   - [[https://www.gimp.org/][GIMP]] - The Free & Open Source Image Editor
   - [[https://www.blender.org/][Blender]] - Open Source 3D creation. Free to use for any purpose, forever.
   - [[https://inkscape.org/en/][Inkscape]] -  Draw Freely.
-
 
  
 anda juga dapat bisa melihat di [[https://github.com/LewisVo/Awesome-Linux-Software][Awesome-Linux-Sofware]] 
@@ -187,7 +192,6 @@ Mata Kuliah yang menggunakan perangkat lunak yang tidak memiliki support di GNU/
 
 - SQL Server -> [[https://mariadb.org/][MariaDB]]
 - Visual Studio IDE -> [[http://www.monodevelop.com/][MonoDevelop]]
-
 
 * Cara Membaca tabel
 
