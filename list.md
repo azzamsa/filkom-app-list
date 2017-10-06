@@ -48,7 +48,7 @@ Mata kuliah wajib
   1    Rekayasa Perangkat Lunak          V      ?                                                     5
   2    Pengenalan Pola                          IDE                 V           V            V        
   3    Keamanan Informasi                       X                                                     
-  4    Pemrograman Platform Khusus       V      Visual Studio       V           V            ?        
+  4    Pemrograman Platform Khusus       V      Visual Studio       V           V            V        
   5    MK PILIHAN 1                                                                                   
   6    MK PILIHAN 2                                                                                   
                                                                                                       
@@ -136,7 +136,7 @@ Mata Kuliah Pilihan Keminatan Multimedia, Game dan Mobile (MGM)
   ---- ------------------------------------------------ ------------ -------------------- ----------- ------------ -------- -----
   1    Perancangan Game                                 TIF-151651                                                          
   2    Pembuatan Konten 2D dan 3D                       TIF-151652                                                          
-  3    Pemrograman Aplikasi Perangkat Bergerak          TIF-151654                                                          
+  3    Pemrograman Aplikasi Perangkat Bergerak          TIF-151654   Android Studio       V           V            V         
   4    Grafika Komputer dan Visualisasi                 TIF-151653                                                          
   5    Pemrograman Game                                                                                                     
   6    Pemrograman GPU                                                                                                      
