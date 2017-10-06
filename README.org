@@ -86,7 +86,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 | 11 | Manajemen Konfigurasi Perangkat Lunak        | TIF-151574 |        |           |            |        |   7 |
 | 12 | Metode Formal dalam Rekayasa Perangkat Lunak | TIF-151572 | X      |           |            |        |   7 |
 | 13 | Rekayasa Embedded System                     | TIF-151573 |        |           |            |        |   7 |
-| 14 | Web Semantik                                 | TIF-151571 |        |           |            |        |   7 |
+| 14 | Web Semantik                                 | TIF-151571 | Protege| V         | V          | ?      |   7 |
 |    |                                              |            |        |           |            |        |     |
 
 
