@@ -73,22 +73,24 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 
 ** Mata Kuliah Pilihan Keminatan Rekayasa Perangkat Lunak (RPL)
 
-| No | Mata Kuliah (MK)                             | Kode       | Bawaan | *GNU/Linux* | MS Windows | Mac OS | Sem |
-|----+----------------------------------------------+------------+--------+-------------+------------+--------+-----|
-|  1 | Rekayasa & Manajemen Kebutuhan               | TIF-151551 | -      |             |            |        |   5 |
-|  2 | Rekayasa Pengetahuan                         | TIF-151552 | ?      |             |            |        |   5 |
-|  3 | Administrasi Basis Data                      | TIF-152564 | ?      |             |            |        |   6 |
-|  4 | Arsitektur Aplikasi Enterprise               | TIF-152568 | ?      |             |            |        |   6 |
-|  5 | Basis Data Terdistribusi                     | TIF-152563 | ?      |             |            |        |   6 |
-|  6 | Kualitas dan Kehandalan Perangkat Lunak      | TIF-152562 | ?      |             |            |        |   6 |
-|  7 | Manajemen Proyek Perangkat Lunak             | TIF-152569 | ?      |             |            |        |   6 |
-|  8 | Pengujian Perangkat Lunak                    | TIF-152561 | ?      |             |            |        |   6 |
-|  9 | Perancangan User Experience                  | TIF-152567 | ?      |             |            |        |   6 |
-| 10 | Pola-pola Perancangan                        | TIF-152565 | IDE    | V           | V          | V      |   6 |
-| 11 | Manajemen Konfigurasi Perangkat Lunak        | TIF-151574 | ?      |             |            |        |   7 |
-| 12 | Metode Formal dalam Rekayasa Perangkat Lunak | TIF-151572 | -      |             |            |        |   7 |
-| 13 | Rekayasa Embedded System                     | TIF-151573 | ?      |             |            |        |   7 |
-| 14 | Web Semantik                                 | TIF-151571 | -      |             |            |        |   7 |
+
+| No | Mata Kuliah (MK)                             | Kode       | Bawaan  | *GNU/Linux* | MS Windows | Mac OS | Sem |
+|----+----------------------------------------------+------------+---------+-------------+------------+--------+-----|
+|  1 | Rekayasa & Manajemen Kebutuhan               | TIF-151551 | -       |             |            |        |   5 |
+|  2 | Rekayasa Pengetahuan                         | TIF-151552 | ?       |             |            |        |   5 |
+|  3 | Administrasi Basis Data                      | TIF-152564 | ?       |             |            |        |   6 |
+|  4 | Arsitektur Aplikasi Enterprise               | TIF-152568 | ?       |             |            |        |   6 |
+|  5 | Basis Data Terdistribusi                     | TIF-152563 | ?       |             |            |        |   6 |
+|  6 | Kualitas dan Kehandalan Perangkat Lunak      | TIF-152562 | ?       |             |            |        |   6 |
+|  7 | Manajemen Proyek Perangkat Lunak             | TIF-152569 | ?       |             |            |        |   6 |
+|  8 | Pengujian Perangkat Lunak                    | TIF-152561 | ?       |             |            |        |   6 |
+|  9 | Perancangan User Experience                  | TIF-152567 | ?       |             |            |        |   6 |
+| 10 | Pola-pola Perancangan                        | TIF-152565 | IDE     | V           | V          | V      |   6 |
+| 11 | Manajemen Konfigurasi Perangkat Lunak        | TIF-151574 | ?       |             |            |        |   7 |
+| 12 | Metode Formal dalam Rekayasa Perangkat Lunak | TIF-151572 | -       |             |            |        |   7 |
+| 13 | Rekayasa Embedded System                     | TIF-151573 | ?       |             |            |        |   7 |
+| 14 | Web Semantik                                 | TIF-151571 | Protégé |             |            |        |   7 |
+
 
 
 
