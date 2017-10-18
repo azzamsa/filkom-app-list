@@ -102,8 +102,8 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 |  2 | Text Mining                   | TIF-151451 | -             |             |            |        |   5 |
 |  3 | Sistem Pakar                  | TIF-151453 | -             |             |            |        |   5 |
 |  4 | Logika Fuzzy                  | TIF-151454 | -             |             |            |        |   5 |
-|  5 | Sistem Penunjang Keputusaan   | TIF-151455 | -             |             |            |        |   5 |
-|  6 | Visi Komputer                 | TIF-152460 | -             |             |            |        |   6 |
+|  5 | Sistem Pendukung Keputusan    | TIF-151455 | -             |             |            |        |   5 |
+|  6 | Visi Komputer                 | TIF-152460 | Anaconda      | V           | V          | V      |   6 |
 |  7 | Data Mining                   | TIF-152461 | -             |             |            |        |   6 |
 |  8 | Sistem Temu Kembali Informasi | TIF-152462 | -             |             |            |        |   6 |
 |  9 | Jaringan Syaraf Tiruan        | TIF-152463 | -             |             |            |        |   6 |
