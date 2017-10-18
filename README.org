@@ -131,7 +131,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 |  8 | Pemrograman Jaringan             | TIF-152364 | -                    |             |            |        |     |
 |  9 | Sistem Forensik Digital          | TIF-152365 | -                    |             |            |        |     |
 | 10 | Jaringan Nir Kabel               | KOM-151360 | -                    |             |            |        |     |
-| 11 | Kriptografi                      | TIF-151371 | -                    |             |            |        |     |
+| 11 | Kriptografi                      | TIF-151371 | GNU Octave           | V           | V          | V      | 7   |
 
 
 
@@ -145,7 +145,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 |  3 | Pemrograman Aplikasi Perangkat Bergerak        | CIF-61654 | Android Studio | V           | V          | V      |   5 |
 |  4 | Grafika Komputer dan Visualisasi               | CIF-61653 | IDE, SDL       | V           | V          | V      |   6 |
 |  5 | Pemrograman Game                               | CIF-62661 | IDE, SDL       | V           | V          | V      |   6 |
-|  6 | Pemrograman GPU                                | CIF-62663 | ?              |             |            |        |   6 |
+|  6 | Pemrograman GPU                                | CIF-62663 | CUDA Toolkit   | V           | V          | V      |   6 |
 |  7 | Kecerdasan Buatan dalam Game                   | CIF-62662 | Unity          | V           | V          | V      |   6 |
 |  8 | Pemrograman Aplikasi Perangkat Bergerak Lanjut | CIF-62664 | Android Studio | V           | V          | V      |   6 |
 |  9 | Rekayasa Aplikasi Perangkat Bergerak           | CIF-62665 | -              |             |            |        |   6 |
