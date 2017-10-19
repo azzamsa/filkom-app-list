@@ -1,6 +1,14 @@
 #+TITLE: Daftar Aplikasi Mata kuliah Informatika Universitas Brawijaya
 #+STARTUP: showeverything  align 
 
+
+,----
+| *Deprecated*, please see [[https://github.com/azzamsa/fs-filkom-list][fs-filkom-list]] |
+`----
+
+
+
+
 #+BEGIN_QUOTE
 *Catatan*
 saya memulai daftar ini untuk diri saya sendiri semenjak
@@ -180,7 +188,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 - IDE
   - [[https://netbeans.org/index.html][Netbeans]] - NetBeans IDE - The Smarter and Faster Way to Code
   - [[https://eclipse.org/ide/][Eclipse]] - Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too.
-  - [[www.codeblocks.org][CodeBlocks]] - The open source, cross platform, free C, C++ and Fortran IDE.
+  - [[http://www.codeblocks.org/][CodeBlocks]] - The open source, cross platform, free C, C++ and Fortran IDE.
   - [[https://codelite.org/][CodeLite]] - A Free, open source, cross platform C,C++,PHP and Node.js IDE
 
 - Text Editor
