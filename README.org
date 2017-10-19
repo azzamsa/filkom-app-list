@@ -230,6 +230,11 @@ ke format lain seperti PDF, odt, dan latex menggunakan Pandoc.
 saya memilih menggunakan org-mode dari pada markdown untuk repo ini, karen saya
 merasa lebih mudah membuat dan menyunting tabel pada org-mode dibandingkan markdown.
 
+*19.10.2017 11:09 AM* saya hanya memilih untuk menyediakan berkas org-mode pada repo
+ini, untuk menjaga kesederhanaan dan menghindari redunansi, teman-teman bisa menggunakan
+[[https://github.com/larstvei/ox-gfm][ox-gfm]] atau [[https://pandoc.org/][Pandoc]] untuk melakukan konversi, dan saya rasa itu tidak terlalu teman-teman 
+butuhkan karena teman-teman bisa melihat versi termutakhir secara langsung di halaman ini.
+
 * Kontribusi
 
 anda dapat berkontribusi pada daftar ini dengan melengkapi pada /fork/ anda yang kemudian akan saya /merge/,
