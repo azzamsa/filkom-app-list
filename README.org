@@ -1,5 +1,5 @@
 #+TITLE: Daftar Aplikasi Mata kuliah Informatika Universitas Brawijaya
-#+STARTUP: showeverything
+#+STARTUP: showeverything  align 
 
 *jika anda membaca readme ini menggunakan gawai, silahkan gunakan desktop-mode pada browser di gawai anda*
 
