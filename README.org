@@ -131,7 +131,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 |  8 | Pemrograman Jaringan             | TIF-152364 | -                    |             |            |        |     |
 |  9 | Sistem Forensik Digital          | TIF-152365 | -                    |             |            |        |     |
 | 10 | Jaringan Nir Kabel               | KOM-151360 | -                    |             |            |        |     |
-| 11 | Kriptografi                      | TIF-151371 | GNU Octave           | V           | V          | V      | 7   |
+| 11 | Kriptografi                      | TIF-151371 | GNU Octave           | V           | V          | V      |   7 |
 
 
 
