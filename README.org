@@ -28,7 +28,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 |  2 | Arsitektur & OrganisasiKomputer  | -                |             |            |        |     |
 |  3 | Pemrograman Lanjut(P)            | IDE              | V           | V          | V      |     |
 |  4 | Matematika Komputasi Lanjut      | -                |             |            |        |     |
-|  5 | Interaksi Manusia & Komputer     | -                |             |            |        |     |
+|  5 | Interaksi Manusia & Komputer     | Prototyping Tools | V           | V          | V      |     |
 |  6 | Statistika                       | -                |             |            |        |     |
 |    |                                  |                  |             |            |        |     |
 |  1 | Pendidikan Pancasila             | -                |             |            |        |   3 |
@@ -42,10 +42,10 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 |  2 | Kecerdasan Buatan(P)             | IDE              | V           | V          | V      |     |
 |  3 | Jaringan Komputer(P)             | Wireshark        | V           | V          | V      |     |
 |  4 | Pemrograman Web(P)               | AMP stack        | V           | V          | V      |     |
-|  5 | Analisis & Perancangan Sistem(P) | -                | -           | -          | -      |     |
+|  5 | Analisis & Perancangan Sistem(P) | UML Tools        | V           | V          | V      |     |
 |    |                                  |                  |             |            |        |     |
 |    |                                  |                  |             |            |        |     |
-|  1 | Rekayasa Perangkat Lunak(P)      | ?                |             |            |        |   5 |
+|  1 | Rekayasa Perangkat Lunak(P)      | UML Tools        | V           | V          | V      |   5 |
 |  2 | Pengenalan Pola                  | IDE              | V           | V          | V      |     |
 |  3 | Keamanan Informasi               | -                |             |            |        |     |
 |  4 | Pemrograman Platform Khusus(P)   | Visual Studio    | X           | V          | V      |     |
@@ -84,7 +84,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 |  6 | Kualitas dan Kehandalan Perangkat Lunak      | TIF-152562 | ?       |             |            |        |   6 |
 |  7 | Manajemen Proyek Perangkat Lunak             | TIF-152569 | ?       |             |            |        |   6 |
 |  8 | Pengujian Perangkat Lunak                    | TIF-152561 | ?       |             |            |        |   6 |
-|  9 | Perancangan User Experience                  | TIF-152567 | ?       |             |            |        |   6 |
+|  9 | Perancangan User Experience                  | TIF-152567 | Prototyping tools |             |            |        |   6 |
 | 10 | Pola-pola Perancangan                        | TIF-152565 | IDE     | V           | V          | V      |   6 |
 | 11 | Manajemen Konfigurasi Perangkat Lunak        | TIF-151574 | ?       |             |            |        |   7 |
 | 12 | Metode Formal dalam Rekayasa Perangkat Lunak | TIF-151572 | -       |             |            |        |   7 |
@@ -180,12 +180,19 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
   - [[https://www.blender.org/][Blender]] - Open Source 3D creation. Free to use for any purpose, forever.
   - [[https://inkscape.org/en/][Inkscape]] -  Draw Freely.
 
+- UML Tools
+  - [[https://www.visual-paradigm.com/download/community.jsp][Visual Paradigm Community Edition]] - Visual Paradigm Community Edition
+
+- Prototyping Tools
+  - [[http://www.adobe.com/sea/products/experience-design.html][Adobe XD (Beta)]] (Only Windows / macOS)- Design. Prototype. Share. All in one app.
+  - [[http://wireframesketcher.com/][WireframeSketcher]] (NF) - WireframeSketcher is a wireframing tool that helps designers, developers and product managers quickly create wireframes, mockups and prototypes for desktop, web and mobile applications. It’s a desktop app and a plug-in for any Eclipse IDE.
+  - [[http://pencil.evolus.vn/][Pencil]] - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
+  - [[https://www.justinmind.com/][JustInMind]] (Only Windows / macOS) - All-in-one Prototyping Tool for web and mobile apps.
+
 - Misc
   - [[http://www.mycli.net/][MyCLI]] - Universal SQL Client 
   - [[https://dbeaver.jkiss.org/][DBeaver]] - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
   - [[http://gkamus.sourceforge.net/][gKamus]] - Simple English - Indonesia Dictionary.
-  - [[http://wireframesketcher.com/][WireframeSketcher]] (NF) - WireframeSketcher is a wireframing tool that helps designers, developers and product managers quickly create wireframes, mockups and prototypes for desktop, web and mobile applications. It’s a desktop app and a plug-in for any Eclipse IDE.
-  - [[http://pencil.evolus.vn/][Pencil]] - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
  
  
 anda juga dapat bisa melihat di [[https://github.com/LewisVo/Awesome-Linux-Software][Awesome-Linux-Sofware]] 
