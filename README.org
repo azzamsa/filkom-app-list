@@ -1,6 +1,24 @@
 #+TITLE: Daftar Aplikasi Mata kuliah Informatika Universitas Brawijaya
 #+STARTUP: showeverything  align 
 
+> *Catatan*
+> saya memulai daftar ini untuk diri saya sendiri semenjak
+> saya duduk di semeser 3, dan bertanya dengan cara menghubungi kakak
+> tingkat satu persatu tentang aplikasi yang digunakan pada mata
+> kuliah tertentu, karena saya secara intensif menggunakan GNU/Linux
+> sebagai Sistem Operasi primer saya. pada semester 5 saya meletakkan
+> dafar ini pada repository umum, dan mengundang banyak kontributor.
+> kesalahan saya sejak awal adalah tidak memberikan keterangan secara
+> jelas _tujuan_ daftar ini dibangun sehingga seiring banyaknya
+> kontributor arah repository ini semakin buram, tetapi dari pada
+> menghapus semua usaha yang sudah ada, saya membiarkan repo ini tetap
+> ada, anda boleh melakukan /fork/ dan melanjutkannya sesuka hati,
+> saya membuat repo baru yang sesuai dengan tujuan saya,
+> [[https://github.com/azzamsa/fs-filkom-list][fs-filkom-list]].
+
+
+
+
 *jika anda membaca readme ini menggunakan gawai, silahkan gunakan desktop-mode pada browser di gawai anda*
 
 Mengingat banyak sekali teman-teman di sekitar saya yang
