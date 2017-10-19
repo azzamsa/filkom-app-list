@@ -245,16 +245,20 @@ aplikasi non-free yang akan dicantumkan harus dibubuhkan tanda (NF), seperti foo
 
 * Kontributor
 
-- David C.H
-- Retiana
-- Ihwanudien H.R
-- Dese Narfa Firmansyah
+di urutkan berdasarkan abjad.
+
 - Andre Rizal Sinaga
+- Arrizal Amin
+- David C.H
+- Dese Narfa Firmansyah
 - Ibrahim Yunus Muhammad Fiqhan (frieden19)
-- Ricky Irfandi
-- M Dikri Robin (KrenZfer)
+- Ihwanudien H.R
 - M Anton Rizky Saputra (asamsulfat)
-  
+- M Dikri Robin (KrenZfer)
+- Retiana
+- Ricky Irfandi
+
+
 * Lisensi
 
 This work is licensed under a [[http://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0 International License]].
