@@ -3,7 +3,7 @@
 
 
 ,----
-| *Deprecated*, please see [[https://github.com/azzamsa/fs-filkom-list][fs-filkom-list]] |
+| *Deprecated*, please see [[https://gitlab.com/azzamsa/fs-filkom-list][fs-filkom-list]] |
 `----
 
 
