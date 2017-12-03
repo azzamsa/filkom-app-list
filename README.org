@@ -1,5 +1,5 @@
 #+TITLE: Daftar Aplikasi Mata kuliah Informatika Universitas Brawijaya
-#+STARTUP: showeverything  align 
+#+STARTUP: showeverything  align
 
 
 ,----
@@ -22,7 +22,7 @@ jelas _tujuan_ daftar ini dibangun sehingga seiring banyaknya
 kontributor arah repository ini semakin buram, tetapi dari pada
 menghapus semua usaha yang sudah ada, saya membiarkan repo ini tetap
 ada, anda boleh melakukan /fork/ dan melanjutkannya sesuka hati,
-saya membuat repo baru yang sesuai dengan tujuan saya, [[https://github.com/azzamsa/fs-filkom-list][fs-filkom-list]] 
+saya membuat repo baru yang sesuai dengan tujuan saya, [[https://gitlab.com/azzamsa/fs-filkom-list][fs-filkom-list]]
 #+END_QUOTE
 
 
@@ -195,7 +195,7 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
   - [[https://www.gnu.org/software/emacs/][Emacs]] - An extensible, customizable, free/libre text editor and more.
   - [[https://vim.sourceforge.io/][Vim]] - Vim - the ubiquitous text editor
 
-- Diagrams tools 
+- Diagrams tools
   - [[http://dia-installer.de/][Dia]] - Dia is a program to draw structured diagrams.
   - [[https://www.yworks.com/products/yed][yEd]] - (NF) yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
   - [[http://astah.net/editions/community][astah community]] (NF) - Free UML Tool for Non-Commercial Use!.
@@ -206,14 +206,14 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
   - [[https://inkscape.org/en/][Inkscape]] -  Draw Freely.
 
 - Misc
-  - [[http://www.mycli.net/][MyCLI]] - Universal SQL Client 
+  - [[http://www.mycli.net/][MyCLI]] - Universal SQL Client
   - [[https://dbeaver.jkiss.org/][DBeaver]] - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
   - [[http://gkamus.sourceforge.net/][gKamus]] - Simple English - Indonesia Dictionary.
   - [[http://wireframesketcher.com/][WireframeSketcher]] (NF) - WireframeSketcher is a wireframing tool that helps designers, developers and product managers quickly create wireframes, mockups and prototypes for desktop, web and mobile applications. It’s a desktop app and a plug-in for any Eclipse IDE.
   - [[http://pencil.evolus.vn/][Pencil]] - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
- 
- 
-anda juga dapat bisa melihat di [[https://github.com/LewisVo/Awesome-Linux-Software][Awesome-Linux-Sofware]] 
+
+
+anda juga dapat bisa melihat di [[https://github.com/LewisVo/Awesome-Linux-Software][Awesome-Linux-Sofware]]
 
 ** Rekomendasi Perangkat Lunak Pengganti (/Replacement/)
 
@@ -249,7 +249,7 @@ saya meneydiakan flat ods yang bisa di buka menggunakan [[https://www.libreoffic
 menggunakan cara lain yaitu mengonversikan file org ke markdown menggunakan [[https://pandoc.org/][pandoc]].
 
 *14.09.2017 12:23 PM* flat odt tidak lagi disertakan, untuk memudahkan produktifitas,
-saya hanya menyertakan dalam format markdown. anda bisa mengonversikan format markdown 
+saya hanya menyertakan dalam format markdown. anda bisa mengonversikan format markdown
 ke format lain seperti PDF, odt, dan latex menggunakan Pandoc.
 
 saya memilih menggunakan org-mode dari pada markdown untuk repo ini, karen saya
@@ -257,7 +257,7 @@ merasa lebih mudah membuat dan menyunting tabel pada org-mode dibandingkan markd
 
 *19.10.2017 11:09 AM* saya hanya memilih untuk menyediakan berkas org-mode pada repo
 ini, untuk menjaga kesederhanaan dan menghindari redunansi, teman-teman bisa menggunakan
-[[https://github.com/larstvei/ox-gfm][ox-gfm]] atau [[https://pandoc.org/][Pandoc]] untuk melakukan konversi, dan saya rasa itu tidak terlalu teman-teman 
+[[https://github.com/larstvei/ox-gfm][ox-gfm]] atau [[https://pandoc.org/][Pandoc]] untuk melakukan konversi, dan saya rasa itu tidak terlalu teman-teman
 butuhkan karena teman-teman bisa melihat versi termutakhir secara langsung di halaman ini.
 
 * Kontribusi
