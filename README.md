@@ -138,34 +138,19 @@ Mengingat banyak sekali teman-teman di sekitar saya yang memperjuangkan nilai ni
 ## Perangkat Lunak Pendukung
 
 - IDE
-- [Netbeans](https://netbeans.org/index.html) - NetBeans IDE - The Smarter and Faster Way to Code
-- [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too.
-- [CodeBlocks](http://www.codeblocks.org/) - The open source, cross platform, free C, C++ and Fortran IDE.
-- [CodeLite](https://codelite.org/) - A Free, open source, cross platform C,C++,PHP and Node.js IDE
-
-- Text Editor
-- [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor and more.
-- [Vim](https://vim.sourceforge.io/) - Vim - the ubiquitous text editor
-
+  - [Netbeans](https://netbeans.org/index.html) - NetBeans IDE - The Smarter and Faster Way to Code
+  - [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too.
 - Diagrams tools
-- [Dia](http://dia-installer.de/) - Dia is a program to draw structured diagrams.
-- [yEd](https://www.yworks.com/products/yed) - (NF) yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
-- [astah community](http://astah.net/editions/community) (NF) - Free UML Tool for Non-Commercial Use!.
-
+  - [diagrams.net](https://app.diagrams.net/) - Flowchart Maker & Online Diagram Software
+  - [Dia](http://dia-installer.de/) - Dia is a program to draw structured diagrams.
 - Graphics tools
-- [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor
-- [Blender](https://www.blender.org/) - Open Source 3D creation. Free to use for any purpose, forever.
-- [Inkscape](https://inkscape.org/en/) - Draw Freely.
-
+  - [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor
+  - [Inkscape](https://inkscape.org/en/) - Draw Freely.
 - Misc
-- [MyCLI](http://www.mycli.net/) - Universal SQL Client
-- [DBeaver](https://dbeaver.jkiss.org/) - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
-- [gKamus](http://gkamus.sourceforge.net/) - Simple English - Indonesia Dictionary.
-- [WireframeSketcher](http://wireframesketcher.com/) (NF) - WireframeSketcher is a wireframing tool that helps designers, developers and product managers quickly create wireframes, mockups and prototypes for desktop, web and mobile applications. It’s a desktop app and a plug-in for any Eclipse IDE.
-- [Pencil](http://pencil.evolus.vn/) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
+  - [MyCLI](http://www.mycli.net/) - Universal SQL Client
+  - [DBeaver](https://dbeaver.jkiss.org/) - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlightin
 
 Anda juga dapat bisa melihat di [Awesome-Linux-Sofware](https://github.com/LewisVo/Awesome-Linux-Software)
-
 
 ## Rekomendasi Perangkat Lunak Pengganti (*Replacement*)
 
@@ -173,7 +158,6 @@ Mata Kuliah yang menggunakan perangkat lunak yang tidak memiliki support di GNU/
 
 - SQL Server -> [MariaDB](https://mariadb.org/)
 - Visual Studio IDE -> [MonoDevelop](http://www.monodevelop.com/)
-
 
 # Cara Membaca tabel
 
