@@ -1,16 +1,11 @@
-> **Catatan** saya memulai daftar ini untuk diri saya sendiri semenjak saya duduk di semeser 3, dan bertanya dengan cara menghubungi kakak tingkat satu persatu tentang aplikasi yang digunakan pada mata kuliah tertentu, karena saya secara intensif menggunakan GNU/Linux sebagai Sistem Operasi primer saya. pada semester 5 saya meletakkan dafar ini pada repository umum, dan mengundang banyak kontributor. kesalahan saya sejak awal adalah tidak memberikan keterangan secara jelas <span class="underline">tujuan</span> daftar ini dibangun sehingga seiring banyaknya kontributor arah repository ini semakin buram, tetapi dari pada menghapus semua usaha yang sudah ada, saya membiarkan repo ini tetap ada, anda boleh melakukan *fork* dan melanjutkannya sesuka hati, saya membuat repo baru yang sesuai dengan tujuan saya, [fs-filkom-list](https://gitlab.com/azzamsa/fs-filkom-list)
-
-**jika anda membaca readme ini menggunakan gawai, silahkan gunakan desktop-mode pada browser di gawai anda**
+# Aplikasi Mata kuliah Informatika Universitas Brawijaya
 
 Mengingat banyak sekali teman-teman di sekitar saya yang memperjuangkan nilai nilai yang mereka cintai, saya membuatkan daftar sederhana yang memuat aplikasi apa saja yang akan di gunakan pada seluruh mata kuliah jurusan Informatika di Universitas Brawijaya, dengan harapan agar teman-teman yang menggunakan Sistem Operasi non-windows, bisa memiliki pandangan dan persiapan bagaimana mengatasi aplikasi yang tidak native atau tidak memiliki support di non-windows.
-
-
-# Aplikasi Mata kuliah Informatika Universitas Brawijaya
 
 ## Mata kuliah wajib
 
 | NO | Name                             | Bawaan           | **GNU/Linux** | MS Windows | Mac OS | SMT |
-|--- |-------------------------------- |---------------- |------------- |---------- |------ |--- |
+|--- |--------------------------------- |----------------- |-------------- |----------- |------- |---- |
 | 1  | Pendidikan Agama Islam           | -                |               |            |        | 1   |
 | 2  | Bahasa Indonesia                 | -                |               |            |        |     |
 | 3  | Pemrograman Dasar(P)             | IDE              | V             | V          | V      |     |
@@ -67,7 +62,7 @@ Mengingat banyak sekali teman-teman di sekitar saya yang memperjuangkan nilai ni
 ## Mata Kuliah Pilihan Keminatan Rekayasa Perangkat Lunak (RPL)
 
 | No | Mata Kuliah (MK)                             | Kode       | Bawaan  | **GNU/Linux** | MS Windows | Mac OS | Sem |
-|--- |-------------------------------------------- |---------- |------- |------------- |---------- |------ |--- |
+|--- |--------------------------------------------- |----------- |-------- |-------------- |----------- |------- |---- |
 | 1  | Rekayasa & Manajemen Kebutuhan               | TIF-151551 | -       |               |            |        | 5   |
 | 2  | Rekayasa Pengetahuan                         | TIF-151552 | ?       |               |            |        | 5   |
 | 3  | Administrasi Basis Data                      | TIF-152564 | ?       |               |            |        | 6   |
@@ -86,7 +81,7 @@ Mengingat banyak sekali teman-teman di sekitar saya yang memperjuangkan nilai ni
 ## Mata Kuliah Pilihan Keminatan Komputasi Cerdas (KC)
 
 | No | Mata Kuliah (MK)              | Kode       | Bawaan        | **GNU/Linux** | MS Windows | Mac OS | Sem |
-|--- |----------------------------- |---------- |------------- |------------- |---------- |------ |--- |
+|--- |-----------------------------  |----------  |-------------  |-------------  |----------- |------- |---- |
 | 1  | Pengolahan Citra Digital      | TIF-151450 | GNU Octave    | V             | V          | V      | 5   |
 | 2  | Text Mining                   | TIF-151451 | -             |               |            |        | 5   |
 | 3  | Sistem Pakar                  | TIF-151453 | -             |               |            |        | 5   |
@@ -104,7 +99,7 @@ Mengingat banyak sekali teman-teman di sekitar saya yang memperjuangkan nilai ni
 ## Mata Kuliah Pilihan Keminatan Komputasi Berbasis Jaringan (KBJ)
 
 | No | Mata Kuliah (MK)                 | Kode       | Bawaan                   | **GNU/Linux** | MS Windows | Mac OS | Sem |
-|--- |-------------------------------- |---------- |------------------------ |------------- |---------- |------ |--- |
+|--- |--------------------------------  |----------  |------------------------  |-------------  |----------  |------  |---  |
 | 1  | Administrasi Sistem Server       | KOM-152361 | GNU/Linux Distro         | V             |            |        |     |
 | 2  | Administrasi Jaringan            | KOM-152161 | Gns3,Cisco Packet traces | V             | V          | V      |     |
 | 3  | Keamanan Jaringan                | TIF-151351 | Penetration packages     | V             |            |        |     |
@@ -120,7 +115,7 @@ Mengingat banyak sekali teman-teman di sekitar saya yang memperjuangkan nilai ni
 ## Mata Kuliah Pilihan Keminatan Multimedia, Game dan Mobile (MGM)
 
 | No | Mata Kuliah (MK)                               | Kode      | Bawaan         | **GNU/Linux** | MS Windows | Mac OS | Sem |
-|--- |---------------------------------------------- |--------- |-------------- |------------- |---------- |------ |--- |
+|--- |----------------------------------------------  |---------  |--------------  |-------------  |----------  |------  |---  |
 | 1  | Perancangan Game                               | CIF-61651 | Unity          | V             | V          | V      | 5   |
 | 2  | Pembuatan Konten 2D dan 3D                     | CIF-61652 | Graphics tools | V             | V          | V      | 5   |
 | 3  | Pemrograman Aplikasi Perangkat Bergerak        | CIF-61654 | Android Studio | V             | V          | V      | 5   |
@@ -136,100 +131,85 @@ Mengingat banyak sekali teman-teman di sekitar saya yang memperjuangkan nilai ni
 ## Perubahan Terbaru
 
 | No | Mata Kuliah (MK) | Kode | Bawaan          | **GNU/Linux** | MS Windows | Mac OS | Sem |
-|--- |---------------- |---- |--------------- |------------- |---------- |------ |--- |
+|--- |----------------  |----  |---------------  |-------------  |----------  |------  |---  |
 | 1  | Metode Numerik   |      | Anaconda Python | V             | V          | v      |     |
 
 
 ## Perangkat Lunak Pendukung
 
--   IDE
--   [Netbeans](https://netbeans.org/index.html) - NetBeans IDE - The Smarter and Faster Way to Code
--   [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too.
--   [CodeBlocks](http://www.codeblocks.org/) - The open source, cross platform, free C, C++ and Fortran IDE.
--   [CodeLite](https://codelite.org/) - A Free, open source, cross platform C,C++,PHP and Node.js IDE
+- IDE
+- [Netbeans](https://netbeans.org/index.html) - NetBeans IDE - The Smarter and Faster Way to Code
+- [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too.
+- [CodeBlocks](http://www.codeblocks.org/) - The open source, cross platform, free C, C++ and Fortran IDE.
+- [CodeLite](https://codelite.org/) - A Free, open source, cross platform C,C++,PHP and Node.js IDE
 
--   Text Editor
--   [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor and more.
--   [Vim](https://vim.sourceforge.io/) - Vim - the ubiquitous text editor
+- Text Editor
+- [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor and more.
+- [Vim](https://vim.sourceforge.io/) - Vim - the ubiquitous text editor
 
--   Diagrams tools
--   [Dia](http://dia-installer.de/) - Dia is a program to draw structured diagrams.
--   [yEd](https://www.yworks.com/products/yed) - (NF) yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
--   [astah community](http://astah.net/editions/community) (NF) - Free UML Tool for Non-Commercial Use!.
+- Diagrams tools
+- [Dia](http://dia-installer.de/) - Dia is a program to draw structured diagrams.
+- [yEd](https://www.yworks.com/products/yed) - (NF) yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
+- [astah community](http://astah.net/editions/community) (NF) - Free UML Tool for Non-Commercial Use!.
 
--   Graphics tools
--   [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor
--   [Blender](https://www.blender.org/) - Open Source 3D creation. Free to use for any purpose, forever.
--   [Inkscape](https://inkscape.org/en/) - Draw Freely.
+- Graphics tools
+- [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor
+- [Blender](https://www.blender.org/) - Open Source 3D creation. Free to use for any purpose, forever.
+- [Inkscape](https://inkscape.org/en/) - Draw Freely.
 
--   Misc
--   [MyCLI](http://www.mycli.net/) - Universal SQL Client
--   [DBeaver](https://dbeaver.jkiss.org/) - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
--   [gKamus](http://gkamus.sourceforge.net/) - Simple English - Indonesia Dictionary.
--   [WireframeSketcher](http://wireframesketcher.com/) (NF) - WireframeSketcher is a wireframing tool that helps designers, developers and product managers quickly create wireframes, mockups and prototypes for desktop, web and mobile applications. It’s a desktop app and a plug-in for any Eclipse IDE.
--   [Pencil](http://pencil.evolus.vn/) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
+- Misc
+- [MyCLI](http://www.mycli.net/) - Universal SQL Client
+- [DBeaver](https://dbeaver.jkiss.org/) - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
+- [gKamus](http://gkamus.sourceforge.net/) - Simple English - Indonesia Dictionary.
+- [WireframeSketcher](http://wireframesketcher.com/) (NF) - WireframeSketcher is a wireframing tool that helps designers, developers and product managers quickly create wireframes, mockups and prototypes for desktop, web and mobile applications. It’s a desktop app and a plug-in for any Eclipse IDE.
+- [Pencil](http://pencil.evolus.vn/) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 
-anda juga dapat bisa melihat di [Awesome-Linux-Sofware](https://github.com/LewisVo/Awesome-Linux-Software)
+Anda juga dapat bisa melihat di [Awesome-Linux-Sofware](https://github.com/LewisVo/Awesome-Linux-Software)
 
 
 ## Rekomendasi Perangkat Lunak Pengganti (*Replacement*)
 
 Mata Kuliah yang menggunakan perangkat lunak yang tidak memiliki support di GNU/Linux, kami merekomendasikan menggunakan replacement ini:
 
--   SQL Server -> [MariaDB](https://mariadb.org/)
--   Visual Studio IDE -> [MonoDevelop](http://www.monodevelop.com/)
+- SQL Server -> [MariaDB](https://mariadb.org/)
+- Visual Studio IDE -> [MonoDevelop](http://www.monodevelop.com/)
 
 
 # Cara Membaca tabel
 
-Tabel diatas di bangun berdasarkan kekhawatiran kami tentang perangkat lunak yang digunakan pada mata kuliah yang belum kami ambil, oleh karena itu kami memiliki inisiatif untuk membuat tabel sederhana yang memuat:
+Tabel di atas di bangun berdasarkan kekhawatiran kami tentang perangkat lunak yang digunakan pada mata kuliah yang belum kami ambil, oleh karena itu kami memiliki inisiatif untuk membuat tabel sederhana yang memuat:
 
 -   Aplikasi bawaan : kolom ini memuat isi aplikasi yang sudah *default* atau bawaan dari tim pengajar.
 -   Platform : kolom ini berisi tentang support suatu applikasi pada platform tersebut.
 -   "-" pada kolom aplikasi berarti tidak menggunakan tools ataupun tidak ada tools default, diperbolehkan menggunakan apapun.
 -   "IDE" berarti anda bisa menggunakan IDE apapun, termasuk teks editor
 
-sehingga jikalau suatu aplikasi bertanda (X) pada suatu platform, berarti aplikasi tersebut tidak memiliki support pada platform yang bersangkutan, dan anda disarankan untuk mencari pengganti dari aplikasi default.
+Sehingga jikalau suatu aplikasi bertanda (X) pada suatu platform, berarti aplikasi tersebut tidak memiliki support pada platform yang bersangkutan, dan anda disarankan untuk mencari pengganti dari aplikasi default.
 
-pengganti aplikasi tersebut bisa anda lihat di bagian "Rekomendasi Perangkat Lunak" ataupun anda bisa mencari pengganti nya sesuka hati.
+Pengganti aplikasi tersebut bisa anda lihat di bagian "Rekomendasi Perangkat Lunak" ataupun anda bisa mencari pengganti nya sesuka hati.
 
-penggunaan apikasi non-default seperti layaknya menggunakan MySQL untuk pengganti SQL Server membutuhkan izin dosen pengampu, karena tentu tugas akan dikumpulkan kepada beliau, begitupun dengan praktikum. hal ini bergantung penuh kepada kebijakan dosen pengampu.
+Penggunaan apikasi non-default seperti layaknya menggunakan MySQL untuk pengganti SQL Server membutuhkan izin dosen pengampu, karena tentu tugas akan dikumpulkan kepada beliau, begitupun dengan praktikum. hal ini bergantung penuh kepada kebijakan dosen pengampu.
 
-jika tidak ada jalan lain, sementara anda harus menggunakan virtualisasi, seperti [Qemu-kvm](https://www.qemu.org/).
-
-# Penggunaan
-
-untuk menggunakan daftar ini, anda dapat membukan file org menggunakan [Org Mode](http://orgmode.org/) , saya meneydiakan flat ods yang bisa di buka menggunakan [LibreOffice](https://www.libreoffice.org/) , adapun menggunakan cara lain yaitu mengonversikan file org ke markdown menggunakan [pandoc](https://pandoc.org/).
-
-**14.09.2017 12:23 PM** flat odt tidak lagi disertakan, untuk memudahkan produktifitas, saya hanya menyertakan dalam format markdown. anda bisa mengonversikan format markdown ke format lain seperti PDF, odt, dan latex menggunakan Pandoc.
-
-saya memilih menggunakan org-mode dari pada markdown untuk repo ini, karen saya merasa lebih mudah membuat dan menyunting tabel pada org-mode dibandingkan markdown.
-
-**19.10.2017 11:09 AM** saya hanya memilih untuk menyediakan berkas org-mode pada repo ini, untuk menjaga kesederhanaan dan menghindari redunansi, teman-teman bisa menggunakan [ox-gfm](https://github.com/larstvei/ox-gfm) atau [Pandoc](https://pandoc.org/) untuk melakukan konversi, dan saya rasa itu tidak terlalu teman-teman butuhkan karena teman-teman bisa melihat versi termutakhir secara langsung di halaman ini.
-
-
+Jika tidak ada jalan lain, sementara anda harus menggunakan virtualisasi, seperti [Qemu-kvm](https://www.qemu.org/).
 
 # Kontribusi
 
-anda dapat berkontribusi pada daftar ini dengan melengkapi pada *fork* anda yang kemudian akan saya *merge*, ataupun anda dapat mengirimkan salinan flat ods yang sudah anda isi ke alamat surel saya atau melaporkan di bagian [isssue](https://github.com/azzamsa/filkom-app-list/issues).
-
-aplikasi non-free yang akan dicantumkan harus dibubuhkan tanda (NF), seperti foo(NF).
-
+Aplikasi non-free yang akan dicantumkan harus dibubuhkan tanda (NF), seperti foo(NF).
 
 # Kontributor
 
 di urutkan berdasarkan abjad.
 
--   Andre Rizal Sinaga
--   Arrizal Amin
--   David C.H
--   Dese Narfa Firmansyah
--   Ibrahim Yunus Muhammad Fiqhan (frieden19)
--   Ihwanudien H.R
--   M Anton Rizky Saputra (asamsulfat)
--   M Dikri Robin (KrenZfer)
--   Retiana
--   Ricky Irfandi
+- Andre Rizal Sinaga
+- Arrizal Amin
+- David C.H
+- Dese Narfa Firmansyah
+- Ibrahim Yunus Muhammad Fiqhan (frieden19)
+- Ihwanudien H.R
+- M Anton Rizky Saputra (asamsulfat)
+- M Dikri Robin (KrenZfer)
+- Retiana
+- Ricky Irfandi
 
 # Lisensi
 
