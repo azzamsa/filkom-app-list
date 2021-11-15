@@ -7,29 +7,32 @@ Mengingat banyak sekali teman-teman di sekitar saya yang memperjuangkan nilai ni
 | NO | Name                             | Bawaan           | **GNU/Linux** | MS Windows | Mac OS | SMT |
 |--- |--------------------------------- |----------------- |-------------- |----------- |------- |---- |
 | 1  | Pendidikan Agama Islam           | -                |               |            |        | 1   |
-| 2  | Bahasa Indonesia                 | -                |               |            |        |     |
+| 2  | Arsitektur & Organisasi Komputer | -                |               |            |        |     |
 | 3  | Pemrograman Dasar(P)             | IDE              | V             | V          | V      |     |
 | 4  | Pengantar Ilmu Komputer          | -                |               |            |        |     |
 | 5  | Matematika Komputasi             | -                |               |            |        |     |
-| 6  | Sistem Digital                   | Multisim         | X             | V          | X      |     |
+| 6  | Kalkulus                         | -                |               |            |        |     |
+| 7  | Bahasa Inggris                   | -                |               |            |        |     |
 |    |                                  |                  |               |            |        |     |
-| 1  | Bahasa Inggris                   | -                |               |            |        | 2   |
-| 2  | Arsitektur & OrganisasiKomputer  | -                |               |            |        |     |
+| 1  | Kewarganegaraan                  | -                |               |            |        | 2   |
+| 2  | Kewirausahaan                    | -                |               |            |        |     |
 | 3  | Pemrograman Lanjut(P)            | IDE              | V             | V          | V      |     |
-| 4  | Matematika Komputasi Lanjut      | -                |               |            |        |     |
-| 5  | Interaksi Manusia & Komputer     | -                |               |            |        |     |
-| 6  | Statistika                       | -                |               |            |        |     |
+| 4  | Aljabar Linear                   | -                |               |            |        |     |
+| 5  | Sistem Operasi(P)                | Distro GNU/Linux | V             | X          | X      |     |
+| 6  | Statistika & Teori Peluang       | -                |               |            |        |     |
+| 7  | Algoritma & Struktur Data(P)     | IDE              | V             | V          | V      |     |
 |    |                                  |                  |               |            |        |     |
 | 1  | Pendidikan Pancasila             | -                |               |            |        | 3   |
-| 2  | Algoritma & Struktur Data(P)     | IDE              | V             | V          | V      |     |
+| 2  | Jaringan Komputer(P)             | Wireshark        | V             | V          | V      |     |
 | 3  | Metode Numerik                   | GNU Octave       | V             | V          | V      |     |
-| 4  | Sistem Operasi(P)                | Distro GNU/Linux | V             | X          | X      |     |
-| 5  | Sistem Multimedia                | OpenGL           | V             | V          | V      |     |
+| 4  | Desain & Analisis Algoritma      | -                |               |            |        |     |
+| 5  | Kecerdasan Buatan                |                  |               |            |        |     |
 | 6  | Sistem Basis Data(P)             | SQL Server       | V             | V          | X      |     |
+| 7  | Interaksi Manusia dan Komputer   | -                |               |            |        |     |
 |    |                                  |                  |               |            |        |     |
 | 1  | Desain & Analisis Algoritma      | -                |               |            |        | 4   |
 | 2  | Kecerdasan Buatan(P)             | IDE              | V             | V          | V      |     |
-| 3  | Jaringan Komputer(P)             | Wireshark        | V             | V          | V      |     |
+| 5  | Sistem Multimedia                | OpenGL           | V             | V          | V      |     |
 | 4  | Pemrograman Web(P)               | AMP stack        | V             | V          | V      |     |
 | 5  | Analisis & Perancangan Sistem(P) | -                | -             | -          | -      |     |
 |    |                                  |                  |               |            |        |     |
